@@ -9,7 +9,7 @@ export const LOGIN_USER_KEY = "BUDGET_NOTEBOOK_LOGIN_USER_KEY";
 // } else {
 // 	baseURL = "http://127.0.0.1:8000";
 // }
-var baseURL = "http://127.0.0.1:8000";
+var baseURL = 'https://budget-box-notebook.gowthamk14.repl.co';
 const api = axios.create({
 	baseURL: baseURL,
 	headers: {
