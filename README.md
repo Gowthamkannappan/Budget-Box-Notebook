@@ -2,8 +2,8 @@
 ```
 Budget Box App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO]() here!!
-Check out [API LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://notebook-budgetbox.netlify.app/) here!!
+Check out [API LIVE DEMO](https://budget-box-notebook1.gowthamk14.repl.co) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -12,7 +12,7 @@ Check out [API LIVE DEMO]() here!!
 ## How to Install
 1. Git Clone
 ```
-git clone 
+git clone https://github.com/Gowthamkannappan/Budget-Box-Notebook.git
 ```
 2. Backend setting
 ```
